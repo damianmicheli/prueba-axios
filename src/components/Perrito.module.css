@@ -1,0 +1,13 @@
+.card_perrito {
+  border-radius: 20px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.24);
+  position: relative;
+  width: 300px;
+  background-color: rgb(239, 228, 180);
+}
+
+.card_perrito img {
+  margin: 20px;
+  border: solid white 10px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.24);
+}
