@@ -6,6 +6,7 @@ const Perritos = ({ lista, mostrarFavoritos, quitarFavorito }) => {
   return (
     <>
       <h2>Lista random de perritos</h2>
+      <p>(Doble click para agregar o quitar de favoritos)</p>
       <div className={styles.lista_perritos}>
         {lista.map((perrito, index) => (
           <Perrito
