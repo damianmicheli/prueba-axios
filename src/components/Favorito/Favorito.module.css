@@ -1,0 +1,18 @@
+.card_favorito {
+  border-radius: 20px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.24);
+  position: relative;
+  background-color: rgb(255, 227, 100);
+}
+
+.foto_favorito {
+  margin: 30px;
+  border: solid white 10px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.24);
+}
+
+.fav {
+  position: absolute;
+  right: 60px;
+  top: 60px;
+}
