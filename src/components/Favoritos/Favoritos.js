@@ -1,6 +1,7 @@
 import Favorito from "../Favorito/Favorito";
 import styles from "./Favoritos.module.css";
 
+// Recorro la lista de favoritos que entra por props, y renderizo todos los perritos. les mando el metodo quitar de favoritos.
 const Favoritos = ({ lista, quitarFavorito  }) => {
   return (
     <>
