@@ -1,6 +1,6 @@
 # Prueba Axios
 
-Un proyecto simple de React para probar los metodos GET, POST y DELETE con Axios
+Un proyecto simple de React para probar los metodos GET, POST y DELETE con Axios y perritos 🐶
 
 ## Instalación
 
